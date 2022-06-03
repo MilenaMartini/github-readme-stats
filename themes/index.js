@@ -361,6 +361,13 @@ const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   }
+  
+    "Scar":{
+    title_color: "#d90909",
+    icon_color: "#d90909",
+    text_color: "#d90909",
+    bg_color: "#3b0404",
+  }
 };
 
 module.exports = themes;
